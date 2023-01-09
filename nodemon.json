@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGODB_ATLAS_USERNAME": "darwin",
+    "MONGODB_ATLAS_PASSWORD": "plato111",
+    "MONGODB_ATLAS_DBNAME": "todoDB"
+  }
+}
